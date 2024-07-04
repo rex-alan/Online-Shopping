@@ -1,12 +1,31 @@
-# Online-Shopping
+# Online Shopping Application
 
-Developed an online shopping application with a primary focus on Object-Oriented Programming (OOP) principles. The backend was implemented using Core Java, leveraging multiple classes to ensure better maintainability and simplicity. 
+Developed an online shopping application with a primary focus on Object-Oriented Programming (OOP) principles. The backend was implemented using Core Java, leveraging multiple classes to ensure better maintainability and simplicity.
 
-Key features of the project include:
-    Object-Oriented Design: The application structure follows OOP principles, ensuring encapsulation, inheritance, and polymorphism, which facilitate code reuse and modularity.
-    Class-Based Architecture: The backend consists of multiple classes, each representing different entities and functionalities such as Product, User, Order, and Payment. This modular approach enhances code     organization and readability.
-    Maintainability: The use of separate classes for different functionalities allows for easier updates and maintenance. Any changes or additions to the application can be managed with minimal impact on existing code.
-    Simplicity: By breaking down the application into smaller, manageable classes, the overall complexity is reduced, making the codebase easier to understand and work with.
-    Scalability: The modular design supports scalability, allowing the application to handle additional features and increased user load without significant refactoring.
-    Robust Backend: Core Java provides a robust and reliable backend, ensuring efficient performance and handling of application logic.
+## Key Features
+
+- **Object-Oriented Design**
+  - Follows OOP principles such as encapsulation, inheritance, and polymorphism.
+  - Facilitates code reuse and modularity.
+
+- **Class-Based Architecture**
+  - Backend consists of multiple classes, each representing different entities and functionalities such as Product, User, Order, and Payment.
+  - Enhances code organization and readability.
+
+- **Maintainability**
+  - Separate classes for different functionalities allow for easier updates and maintenance.
+  - Changes or additions can be managed with minimal impact on existing code.
+
+- **Simplicity**
+  - Breaking down the application into smaller, manageable classes reduces overall complexity.
+  - The codebase is easier to understand and work with.
+
+- **Scalability**
+  - The modular design supports scalability.
+  - Allows the application to handle additional features and increased user load without significant refactoring.
+
+- **Robust Backend**
+  - Core Java provides a robust and reliable backend.
+  - Ensures efficient performance and handling of application logic.
+
 This project demonstrates the effective use of OOP concepts in building a scalable, maintainable, and efficient online shopping application.
