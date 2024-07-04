@@ -1,12 +1,12 @@
 import java.util.*;
 public class AdminRepo {
-    private ArrayList<Admin> adminList = new ArrayList<>();
+    private static ArrayList<Admin> adminList = new ArrayList<>();
 
-    public ArrayList<Admin> getAdminList() {
+    public static ArrayList<Admin> getAdminList() {
         return adminList;
     }
     public void setAdminList(ArrayList<Admin> adminList) {
-        this.adminList = adminList;
+        AdminRepo.adminList = adminList;
     }
 
     public void viewAdmins(){
